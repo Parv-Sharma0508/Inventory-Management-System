@@ -44,3 +44,10 @@ An Inventory Management System project that allows user to manage and maintain h
   - Total Amount 
     #### Screenshot
 ![Screenshot](https://github.com/Parv-Sharma0508/Inventory-Management-System/blob/main/Sales%20Detail%20Image%20(%20for%20readme%20file).PNG)
+
+### 4.Files
+   - Adding_new_products.ipynb:  add products in inventory
+   - Purchasing_Products.ipynb: purchase from inventory (Deletion)
+   - record.json : Complete inventory record
+   - sales.json : Complete sales record
+   - Rest are images for README.MD 
