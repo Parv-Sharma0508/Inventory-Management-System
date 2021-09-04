@@ -27,7 +27,7 @@ An Inventory Management System project that allows user to manage and maintain h
 - Expiry Date
 - Special Discount
     #### Screenshot
-![App Screenshot](https://ibb.co/FmGcxYd)
+![App Screenshot](https://github.com/Parv-Sharma0508/Inventory-Management-System/blob/main/Product%20Detail%20Image%20(%20for%20readme%20file).PNG)
 ### 2.Bill 
 
 - Bill Number
