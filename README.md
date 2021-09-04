@@ -15,7 +15,7 @@ An Inventory Management System project that allows user to manage and maintain h
 - Update inventory status. 
 - Total sales detail.
 
-## Details
+## About:
 ### 1.Product  
 
 - Product Id
@@ -26,7 +26,7 @@ An Inventory Management System project that allows user to manage and maintain h
 - Unit Price
 - Expiry Date
 
-
+![Screenshot](Product Detail Image ( for readme file).PNG)
 ### 2.Bill 
 
 - Bill Number
@@ -36,7 +36,10 @@ An Inventory Management System project that allows user to manage and maintain h
 - Discount Available on purchased product
 - Total Saving 
 
+![Screenshot](Bill Image ( for readme file ).PNG)
 ### 3.Sales 
   - Total products sold out
   - Total Quantity of each product sold out
   - Total Amount 
+
+![Screenshot](Sales Detail Image ( for readme file).PNG)
