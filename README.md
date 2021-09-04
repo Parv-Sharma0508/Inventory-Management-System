@@ -25,8 +25,8 @@ An Inventory Management System project that allows user to manage and maintain h
 - Quantity Available 
 - Unit Price
 - Expiry Date
-
-![App Screenshot](https://imgur.com/a/1l8gmWR)
+    #### Screenshot
+![App Screenshot](https://github.com/Parv-Sharma0508/Inventory-Management-System/blob/main/Product%20Detail%20Image%20(%20for%20readme%20file).PNG)
 ### 2.Bill 
 
 - Bill Number
@@ -35,11 +35,11 @@ An Inventory Management System project that allows user to manage and maintain h
 - Quantity Purchased
 - Discount Available on purchased product
 - Total Saving 
-
-![Screenshot](Bill Image ( for readme file ).PNG)
+    #### Screenshot
+![Screenshot](https://github.com/Parv-Sharma0508/Inventory-Management-System/blob/main/Bill%20Image%20(%20for%20readme%20file%20).PNG)
 ### 3.Sales 
   - Total products sold out
   - Total Quantity of each product sold out
   - Total Amount 
-
+    #### Screenshot
 ![Screenshot](https://github.com/Parv-Sharma0508/Inventory-Management-System/blob/main/Sales%20Detail%20Image%20(%20for%20readme%20file).PNG)
