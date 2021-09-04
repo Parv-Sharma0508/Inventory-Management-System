@@ -26,7 +26,7 @@ An Inventory Management System project that allows user to manage and maintain h
 - Unit Price
 - Expiry Date
 
-![Screenshot](https://imgur.com/a/1l8gmWR)
+![App Screenshot](https://imgur.com/a/1l8gmWR)
 ### 2.Bill 
 
 - Bill Number
