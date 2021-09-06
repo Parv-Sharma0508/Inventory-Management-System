@@ -51,3 +51,9 @@ An Inventory Management System project that allows user to manage and maintain h
    - record.json : Complete inventory record
    - sales.json : Complete sales record
    - Rest are images for README.MD 
+
+
+  ## About Me:
+   Myself Parv Sharma, 3rd year B.tech Computer Science Student.Currently Learning Python for Data Science.I’m familiar with a variety of programming languages, including   
+   JavaScript, HTML, CSS, Python,C++ but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
+   
