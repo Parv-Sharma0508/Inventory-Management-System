@@ -47,7 +47,7 @@ An Inventory Management System project that allows user to manage and maintain h
 
 ### 4.Files
    - Adding_new_products.ipynb:  add products in inventory
-   - Purchasing_Products.ipynb: purchase from inventory (Deletion)
+   - Purchasing_Products.ipynb: purchase from inventory , bill generation. (Deletion of products from inventory after purchase)
    - record.json : Complete inventory record
    - sales.json : Complete sales record
    - Rest are images for README.MD 
